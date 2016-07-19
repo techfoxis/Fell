@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "jack-logger",
+      "/home/isaiah/Workspace"
+    ]
+  ],
+  "_from": "jack-logger@latest",
+  "_id": "jack-logger@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/jack-logger",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/jack-logger-1.0.1.tgz_1462137618278_0.8970334455370903"
+  },
+  "_npmUser": {
+    "email": "techfox.is@gmail.com",
+    "name": "techfoxis"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "jack-logger",
+    "raw": "jack-logger",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/jack-logger/-/jack-logger-1.0.1.tgz",
+  "_shasum": "8a6515cb79e872a0089910510ef6310d405208f2",
+  "_shrinkwrap": null,
+  "_spec": "jack-logger",
+  "_where": "/home/isaiah/Workspace",
+  "author": {
+    "name": "Techfoxis"
+  },
+  "dependencies": {
+    "terminal-colors": "^0.1.4"
+  },
+  "description": "A simple logging utillity for Node",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8a6515cb79e872a0089910510ef6310d405208f2",
+    "tarball": "https://registry.npmjs.org/jack-logger/-/jack-logger-1.0.1.tgz"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "log",
+    "logger",
+    "terminal"
+  ],
+  "license": "GPL-3.0",
+  "main": "main.js",
+  "maintainers": [
+    {
+      "name": "techfoxis",
+      "email": "techfox.is@gmail.com"
+    }
+  ],
+  "name": "jack-logger",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo Blah!"
+  },
+  "version": "1.0.1"
+}
