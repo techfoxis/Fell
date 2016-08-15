@@ -5,6 +5,7 @@ require('terminal-colors');
 class Logger {
     	
     constructor(preferences) {
+		preferences = preferences || {}
     	this.name = preferences.name || 'logger';
 		this.detailIdentifier = preferences.detailIdentifier || '|'
 		this.showColor = this.shouldBeEnabled(preferences.showColor);

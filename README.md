@@ -1,7 +1,8 @@
 # Jack
-A simple logging utility for Node.
+A simple logging utility for NodeJS.
 
 The NPM page for this module can be found [here](https://www.npmjs.com/package/jack-logger).
+The Github page for this module can be found [here](https://github.com/techfoxis/jack-logger).
 
 ## Documentation
 
